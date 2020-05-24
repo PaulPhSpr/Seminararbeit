@@ -1,3 +1,5 @@
+#code basiert auf https://towardsdatascience.com/deeppicar-part-5-lane-following-via-deep-learning-d93acdce6110
+#Stand 24.05.2020
 import cv2
 import sys
 import os
@@ -22,5 +24,5 @@ def speicher_steuerwinkelBild(video_file, orig):
 
 if __name__ == '__main__':
     print("Start. Dies wird einige Minuten dauern..")
-    speicher_steuerwinkelBild(sys.argv[1], sys.argv[2]) #nimmt den ersten ausdruck aus cmd als argument
+    speicher_steuerwinkelBild(sys.argv[1], sys.argv[2]) #nimmt den ersten und zweiten ausdruck aus cmd als argument
     print("Fertig")
