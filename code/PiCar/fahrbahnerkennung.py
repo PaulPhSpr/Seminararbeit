@@ -1,3 +1,5 @@
+#Code basiert auf: https://towardsdatascience.com/deeppicar-part-4-lane-following-via-opencv-737dd9e47c96
+#Stand 24.05.2020
 import cv2
 import numpy as np
 import math
