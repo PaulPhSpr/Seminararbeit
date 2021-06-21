@@ -40,9 +40,7 @@ Karpathy, A. (2019). PyTorch at Tesla. Abgerufen am 20. August 2020 von https://
 
 Kuutti, S., & et al. (2019). A Survey of Deep Learning Applications to Autonomous Vehicle Control. Abgerufen am 23. August 2020 von https://arxiv.org/pdf/1912.10773.pdf
 
-Meyer, G. (2019). Analyse und technisch-ökonomische Bewertung von Gesetzesfolgen im Individualverkehr – dargestellt am Beispiel der Automobilindustrie Japans und Deutschlands. 
-
-Veröffentlichte Dissertation. Technische Universität Carolo-Wilhelmina zu Braunschweig Braunschweig.
+Meyer, G. (2019). Analyse und technisch-ökonomische Bewertung von Gesetzesfolgen im Individualverkehr – dargestellt am Beispiel der Automobilindustrie Japans und Deutschlands. Veröffentlichte Dissertation. Technische Universität Carolo-Wilhelmina zu Braunschweig Braunschweig.
 
 OpenHPI. (März - April 2020). Praktische Einführung in Deep Learning für Computer Vision. Hasso-Plattner-Institut. Von https://open.hpi.de/courses/neuralnets2020/ abgerufen
 
